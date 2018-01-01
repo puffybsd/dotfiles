@@ -1,0 +1,4 @@
+= A Few Dot Files
+
+This repository contains a few dot files, mainly for use on Linux. These files are provided
+by request, and should be considered "experimental" and subject to change frequently. YMMV.
